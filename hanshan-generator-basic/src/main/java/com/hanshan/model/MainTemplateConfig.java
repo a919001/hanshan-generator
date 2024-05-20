@@ -7,7 +7,7 @@ import lombok.Data;
  */
 @Data
 public class MainTemplateConfig {
-    //作者注释
+    //作者名称
     private String author = "寒山";
 
     //输出信息
