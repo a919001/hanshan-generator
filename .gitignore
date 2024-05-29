@@ -1,6 +1,11 @@
 ### Customize template
 .idea
+generated
+target
 hanshan-generator.iml
+hanshan-generator-basic.iml
+hanshan-generator-maker.iml
+
 
 ### Java template
 # Compiled class file
